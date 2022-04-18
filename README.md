@@ -1,2 +1,3 @@
 # MyNote
- Clone do Evernote com React, Node e SQL
+ Clone do Evernote com React e Node
+
